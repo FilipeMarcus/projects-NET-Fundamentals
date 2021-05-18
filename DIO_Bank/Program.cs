@@ -31,8 +31,8 @@ namespace DIO_Bank
                         Depositar();
                         break;
                     case "C":
-						Console.Clear();
-						break;  
+                        Console.Clear();
+                        break;  
                     case "X":
                         break;
                     default:
