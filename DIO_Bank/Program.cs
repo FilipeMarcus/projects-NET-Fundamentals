@@ -8,8 +8,7 @@ namespace DIO_Bank
         static List<Conta> listaContas = new List<Conta>();
         static void Main(string[] args)
         {
-            string opcaoMenu;
-
+            string opcaoMenu = "";
             do 
             {   
                 opcaoMenu = ObterOpcaoUsuario();
@@ -32,14 +31,13 @@ namespace DIO_Bank
                         Depositar();
                         break;
                     case "C":
-                        Console.Clear();
-                        break;
+						Console.Clear();
+						break;  
                     case "X":
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();            
                 }
-                Console.WriteLine("teste");
             } while (opcaoMenu != "X");
 
             Console.WriteLine("Obrigado por utilizar nossos serviços\n");
@@ -104,7 +102,7 @@ namespace DIO_Bank
                 entradaCredito = tempDouble2;
             }
             else
-        {
+            {
                 Console.Write("Crédito inválido!");
             }
             Conta novaConta = new Conta(tipo_conta: (TipoConta)entradaTipoConta,
@@ -184,7 +182,6 @@ namespace DIO_Bank
         }
         private static string ObterOpcaoUsuario()
         {   
-            //Console.Clear();
             Console.WriteLine("\nDIO Bank a seu dispor !");
             Console.WriteLine("Informe a opção desejada:");
             Console.WriteLine("1 - Listar contas");
