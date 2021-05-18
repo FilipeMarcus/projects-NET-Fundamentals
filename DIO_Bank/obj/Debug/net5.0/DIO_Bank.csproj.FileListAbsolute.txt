@@ -1,0 +1,16 @@
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\bin\Debug\net5.0\DIO_Bank.exe
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\bin\Debug\net5.0\DIO_Bank.deps.json
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\bin\Debug\net5.0\DIO_Bank.runtimeconfig.json
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\bin\Debug\net5.0\DIO_Bank.runtimeconfig.dev.json
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\bin\Debug\net5.0\DIO_Bank.dll
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\bin\Debug\net5.0\ref\DIO_Bank.dll
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\bin\Debug\net5.0\DIO_Bank.pdb
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\obj\Debug\net5.0\DIO_Bank.csprojAssemblyReference.cache
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\obj\Debug\net5.0\DIO_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\obj\Debug\net5.0\DIO_Bank.AssemblyInfoInputs.cache
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\obj\Debug\net5.0\DIO_Bank.AssemblyInfo.cs
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\obj\Debug\net5.0\DIO_Bank.csproj.CoreCompileInputs.cache
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\obj\Debug\net5.0\DIO_Bank.dll
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\obj\Debug\net5.0\ref\DIO_Bank.dll
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\obj\Debug\net5.0\DIO_Bank.pdb
+C:\gitworkspace\projetos-NETfundamentals\DIO_Bank\obj\Debug\net5.0\DIO_Bank.genruntimeconfig.cache
