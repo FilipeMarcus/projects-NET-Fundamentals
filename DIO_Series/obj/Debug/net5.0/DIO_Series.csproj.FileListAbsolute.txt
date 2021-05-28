@@ -1,0 +1,16 @@
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\bin\Debug\net5.0\DIO_Series.exe
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\bin\Debug\net5.0\DIO_Series.deps.json
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\bin\Debug\net5.0\DIO_Series.runtimeconfig.json
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\bin\Debug\net5.0\DIO_Series.runtimeconfig.dev.json
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\bin\Debug\net5.0\DIO_Series.dll
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\bin\Debug\net5.0\ref\DIO_Series.dll
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\bin\Debug\net5.0\DIO_Series.pdb
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\obj\Debug\net5.0\DIO_Series.csprojAssemblyReference.cache
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\obj\Debug\net5.0\DIO_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\obj\Debug\net5.0\DIO_Series.AssemblyInfoInputs.cache
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\obj\Debug\net5.0\DIO_Series.AssemblyInfo.cs
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\obj\Debug\net5.0\DIO_Series.csproj.CoreCompileInputs.cache
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\obj\Debug\net5.0\DIO_Series.dll
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\obj\Debug\net5.0\ref\DIO_Series.dll
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\obj\Debug\net5.0\DIO_Series.pdb
+C:\gitworkspace\projetos-NETfundamentals\DIO_Series\obj\Debug\net5.0\DIO_Series.genruntimeconfig.cache

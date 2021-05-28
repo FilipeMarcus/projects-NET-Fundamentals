@@ -29,7 +29,8 @@ namespace DIO_Series
         }
 
         public int ProximoId()
-        {
+        {   
+            // Count sempre está um numero a frente do indice do vetor
             return listaSeries.Count;
         }
 
